@@ -5,5 +5,4 @@ I'm a 21 years old Computer Science bachelor's student looking to learn more abo
 Contact me by clicking on one of the buttons below. I hope you enjoy my projects. :smile:
 
 [![Linkedin badge](https://img.shields.io/badge/-Henrique%20dos%20Santos-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesqs/)](https://www.linkedin.com/in/henriquesqs/)
-[![Facebook badge](https://img.shields.io/badge/-Henrique%20dos%20Santos-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/henriquesqs/)](https://www.facebook.com/henriquesqs/) 
-[![Linkedin badge](https://img.shields.io/badge/Mail-henriquesqs@hotmail.com-blue?logo=@&logoColor=white&link=mailto:henriquesqs@hotmail.com)](mailto:henriquesqs@hotmail.com) 
+[![Facebook badge](https://img.shields.io/badge/-Henrique%20dos%20Santos-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/henriquesqs/)](https://www.facebook.com/henriquesqs/)

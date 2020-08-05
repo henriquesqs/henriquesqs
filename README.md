@@ -1,6 +1,6 @@
 ### Hello!! "How you doing?" 👋
 
-I'm a 21 years old Computer Science bachelor's student looking to learn more about web development and web design. I'm also working on <b>[PET Computação](https://github.com/pet-comp)</b>, an extracurricular group from my <b>[university](https://www5.usp.br/)</b>. You can check our job on <b>[our site](https://pet.icmc.usp.br/)</b>.
+I'm a 21 years old Computer Science bachelor's student looking to learn more about web development and web design. I'm currently working on <b>[PET Computação](https://github.com/pet-comp)</b>, an extracurricular group from my <b>[university](https://www5.usp.br/)</b>. You can check our job on <b>[our site](https://pet.icmc.usp.br/)</b>.
 
 Contact me by clicking on one of the buttons below. I hope you enjoy my projects. :smile:
 

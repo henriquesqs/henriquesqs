@@ -1,6 +1,6 @@
 ### Hello!! "How you doing?" 👋
 
-I'm a 21 years old BSc Computer Science student at <b>[USP](https://www5.usp.br/)</b> looking to learn more about web development and software development. I'm currently working on <b>[PET Computação](https://github.com/pet-comp)</b>, an extracurricular group on my university. You can check our job on <b>[our site](https://pet.icmc.usp.br/)</b>.
+I'm a 21 years old BSc Computer Science student at <b>[USP](https://www5.usp.br/)</b> looking to learn more about web and software development. I'm currently working on <b>[PET Computação](https://github.com/pet-comp)</b>, an extracurricular group on my university. You can check our job on <b>[our site](https://pet.icmc.usp.br/)</b>.
 
 Contact me by clicking on one of the buttons below. I hope you enjoy my projects. :smile:
 

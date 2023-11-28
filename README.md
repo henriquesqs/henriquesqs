@@ -1,6 +1,6 @@
 ### Hello!! "How you doing?" 👋
 
-I'm a 23 years old Computer Scientist graduated at <b>[USP](https://www5.usp.br/)</b> looking to learn more about web design and web development. I'm currently working as a **Software Engineer** at **[Google](https://github.com/google)**.
+I'm a 24 years old Computer Scientist graduated at <b>[USP](https://www5.usp.br/)</b> looking to learn more about web design and web development. I'm currently working as a **Software Engineer** at **[Google](https://github.com/google)**.
 
 Contact me by clicking on the button below. I hope you enjoy my projects. :smile:
 
